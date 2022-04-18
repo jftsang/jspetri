@@ -1,0 +1,11 @@
+.petri-dish {
+    background-color: dimgray;
+}
+
+.creature {
+    position: absolute;
+}
+
+.food {
+    position: absolute;
+}
